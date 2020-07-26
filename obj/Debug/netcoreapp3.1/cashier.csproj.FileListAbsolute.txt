@@ -1,0 +1,13 @@
+D:\cashier\bin\Debug\netcoreapp3.1\cashier.exe
+D:\cashier\bin\Debug\netcoreapp3.1\cashier.deps.json
+D:\cashier\bin\Debug\netcoreapp3.1\cashier.runtimeconfig.json
+D:\cashier\bin\Debug\netcoreapp3.1\cashier.runtimeconfig.dev.json
+D:\cashier\bin\Debug\netcoreapp3.1\cashier.dll
+D:\cashier\bin\Debug\netcoreapp3.1\cashier.pdb
+D:\cashier\obj\Debug\netcoreapp3.1\cashier.csprojAssemblyReference.cache
+D:\cashier\obj\Debug\netcoreapp3.1\cashier.AssemblyInfoInputs.cache
+D:\cashier\obj\Debug\netcoreapp3.1\cashier.AssemblyInfo.cs
+D:\cashier\obj\Debug\netcoreapp3.1\cashier.csproj.CoreCompileInputs.cache
+D:\cashier\obj\Debug\netcoreapp3.1\cashier.dll
+D:\cashier\obj\Debug\netcoreapp3.1\cashier.pdb
+D:\cashier\obj\Debug\netcoreapp3.1\cashier.genruntimeconfig.cache
